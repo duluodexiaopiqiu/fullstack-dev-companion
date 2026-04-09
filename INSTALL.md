@@ -289,8 +289,8 @@ console.log('推荐阶段:', recommendations);
 ## 📞 支持与反馈
 
 ### 报告问题
-- GitHub Issues: https://github.com/yourusername/fullstack-dev-companion/issues
-- 邮件支持: support@example.com
+- GitHub Issues: https://github.com/duluodexiaopiqiu/fullstack-dev-companion/issues
+- 邮件支持: 2430486030@qq.com
 
 ### 功能请求
 1. 描述需要的功能
