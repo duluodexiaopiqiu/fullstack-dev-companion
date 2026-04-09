@@ -1,0 +1,39 @@
+{
+  "name": "fullstack-dev-companion",
+  "version": "1.0.0",
+  "description": "全栈开发伴侣 - 模块化开发全流程指导工具",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "node scripts/main.js",
+    "menu": "node scripts/main.js menu",
+    "guide": "node scripts/main.js guide",
+    "interactive": "node scripts/main.js interactive",
+    "test": "node scripts/test-navigation.js",
+    "dev": "node scripts/main.js"
+  },
+  "keywords": [
+    "fullstack",
+    "development",
+    "companion",
+    "guide",
+    "product",
+    "technology",
+    "roadmap"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/fullstack-dev-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/fullstack-dev-companion/issues"
+  },
+  "homepage": "https://github.com/yourusername/fullstack-dev-companion#readme"
+}
